@@ -36,6 +36,9 @@ body {
   text-align: center;
   margin-top: 10px;
 }
+#sub{
+    color: #a9a9a9;
+}
 .stats {
   width: 500px;
   display: flex;
@@ -130,6 +133,7 @@ footer {
   font-family: "Montserrat", sans-serif;
   text-align: center;
   margin: 20px;
+  color: #a9a9a9;
 }
 
 @media (max-width: 1050px) {
