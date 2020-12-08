@@ -63,4 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
--  GitHub [@Adelekeolamide](https://github.com/Adelekeolamide})
+-  GitHub [https://github.com/Adelekeolamide](https://github.com/Adelekeolamide})
